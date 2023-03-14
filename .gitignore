@@ -4,3 +4,4 @@
 *.classpath
 *.project
 /HomeWork/bin
+/HomeWork/src/module-info.java
