@@ -1,0 +1,15 @@
+package SecondWork;
+import java.util.*;
+public class Problem_two {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		char[] str = sc.nextLine().toCharArray();
+		System.out.print("result:");
+		for (int i = 0; i < str.length; i ++ ) {
+			if (str[i] >= 97 && str[i] <= 122) {
+				str[i] = (char)((int)str[i] - 32);
+				System.out.print(str[i]);
+			}
+		}
+	}
+}

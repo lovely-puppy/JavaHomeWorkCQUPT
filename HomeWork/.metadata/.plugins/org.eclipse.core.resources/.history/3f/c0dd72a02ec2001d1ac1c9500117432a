@@ -1,0 +1,12 @@
+package SecondWork;
+import java.util.*;
+public class Problem_three {
+	Scanner sc = new Scanner(System.in);
+	int x = sc.nextInt();
+	int y = sc.nextInt();
+	int z = sc.nextInt();
+	int sum = x + y + z;
+	double average = sum / 3.0;
+	System.out.println("sum=" + sum.toFixed(1));
+	System.out.print("average=" + average.toFixed(1));
+}

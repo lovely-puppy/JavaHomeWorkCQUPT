@@ -1,0 +1,10 @@
+./.metadata
+./HomeWork/.metadata
+./HomeWork/.settings
+./HomeWork/bin
+./HomeWork/.classpath
+./HomeWork/.project
+./HomeWork/src/.classpath
+./HomeWork/src/.project
+./HomeWork/src/module-info.class
+./HomeWork/src/module-info.java
